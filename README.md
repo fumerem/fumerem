@@ -1,6 +1,6 @@
 A rustacean who loves cybersecurity.
 
-- rust/ c++ / python
+- rust / c++ / python
 - neovim / vs code
 - My blog: https://fumerem.github.io
 - You can contact me: fumerem@gmail.com
