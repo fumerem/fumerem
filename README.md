@@ -1,4 +1,4 @@
-A rustacean who loves cybersecurity.
+A rustacean who loves cybersecurity and philosophy.
 
 - rust / c++ / python
 - neovim / vs code
